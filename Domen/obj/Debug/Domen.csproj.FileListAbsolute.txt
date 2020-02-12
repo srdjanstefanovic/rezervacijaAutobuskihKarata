@@ -1,0 +1,6 @@
+C:\Users\Srdjan\source\repos\Rezervacija autobuskih karata - Projektovanje softvera\Domen\bin\Debug\Domen.dll
+C:\Users\Srdjan\source\repos\Rezervacija autobuskih karata - Projektovanje softvera\Domen\bin\Debug\Domen.pdb
+C:\Users\Srdjan\source\repos\Rezervacija autobuskih karata - Projektovanje softvera\Domen\obj\Debug\Domen.csproj.CoreCompileInputs.cache
+C:\Users\Srdjan\source\repos\Rezervacija autobuskih karata - Projektovanje softvera\Domen\obj\Debug\Domen.dll
+C:\Users\Srdjan\source\repos\Rezervacija autobuskih karata - Projektovanje softvera\Domen\obj\Debug\Domen.pdb
+C:\Users\Srdjan\source\repos\Rezervacija autobuskih karata - Projektovanje softvera\Domen\obj\Debug\Domen.csprojAssemblyReference.cache
